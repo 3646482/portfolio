@@ -1,0 +1,24 @@
+/* Home Section */
+.home-section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7fafc;
+  }
+  
+  /* Title */
+  .home-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  /* Text */
+  .home-text {
+    font-size: 1.125rem;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
